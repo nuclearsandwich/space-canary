@@ -1,0 +1,9 @@
+<package format="2">
+  <name>space_canary</name>
+  <version>0.1.0</version>
+  <description>
+    Test bloom with spaces in the root directory.
+  </description>
+  <maintainer email="steven@openrobotics.org">Steven! Ragnarök</maintainer>
+  <license>apache2</license>
+</package>
